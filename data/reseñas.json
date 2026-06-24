@@ -1,0 +1,22 @@
+{
+  "reseñas": [
+    {
+      "id": 1,
+      "publicacio_id": "6",
+      "usuari_id": "6a35a778ec85ec8e83853d05",
+      "autor": "Aniol",
+      "rating": 3,
+      "text": "aaaaaaaaaaaaaaaaaaa",
+      "data": "2026-06-20T13:37:17.154Z"
+    },
+    {
+      "id": 2,
+      "publicacio_id": "7",
+      "usuari_id": "6a35a778ec85ec8e83853d05",
+      "autor": "Aniol",
+      "rating": 5,
+      "text": "Es un event molt chulu!!!!!!!!!!!!!!!!!!!!!!!!!1111",
+      "data": "2026-06-23T08:11:20.361Z"
+    }
+  ]
+}

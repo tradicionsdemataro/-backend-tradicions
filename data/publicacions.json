@@ -1,0 +1,53 @@
+{
+  "publicacions": [
+    {
+      "id": 7,
+      "titol": "Taller de Cultura Popular Infantil",
+      "data_publicacio": "2026-02-18",
+      "categoria": "formació",
+      "lloc": "Ateneu de Mataró",
+      "resum": "Activitat educativa per introduir els infants a les tradicions locals.",
+      "descripcio": "Taller pràctic on els nens poden descobrir gegants, música tradicional i balls populars.",
+      "galeria_imatges": [
+        {
+          "url": "https://example.com/imatges/taller1.jpg",
+          "alt": "Infants participant al taller"
+        },
+        {
+          "url": "https://example.com/imatges/taller2.jpg",
+          "alt": "Activitat cultural infantil"
+        }
+      ],
+      "tags": [
+        "infantil",
+        "educació",
+        "cultura"
+      ],
+      "organitzador": "Ateneu de Mataró",
+      "destacat": false
+    },
+    {
+      "titol": "aaaaaaaaaaaaaa",
+      "descripcio": "aaaaaaaaaaaaaaa",
+      "contingut": "",
+      "categoria": "aaaaaaaaaaa",
+      "estat": "esborrany",
+      "autor": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "imatge": "http://localhost:3000/admin",
+      "tags": [
+        "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+      ],
+      "temps_lectura": "",
+      "data_publicacio": "1212-02-21",
+      "galeria_imatges": [
+        {
+          "url": "http://localhost:5000/uploads/1781868533556-94384425.png",
+          "alt": "1781868533556-94384425"
+        }
+      ],
+      "resum": "aaaaaaaaaaaaaaaaaaaaaaa",
+      "id": 8,
+      "createdAt": "2026-06-21T20:15:20.280Z"
+    }
+  ]
+}

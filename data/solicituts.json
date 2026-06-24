@@ -1,0 +1,22 @@
+{
+  "solicituts": [
+    {
+      "id": 1,
+      "nom": "Aniol Rodriguez March",
+      "email": "aniol.rodriguez@indianwebs.es",
+      "telefon": "+34637510005",
+      "assumpte": "temes",
+      "missatge": "Pos que vull formar part de l'equip",
+      "data_creacio": "2026-06-17T18:48:56.986Z"
+    },
+    {
+      "id": 2,
+      "nom": "Aniol Rodriguez March",
+      "email": "aniol.rodriguez@indianwebs.es",
+      "telefon": "+34637510005",
+      "assumpte": "Uneix-te · Disseny Gràfic",
+      "missatge": "Experiència: disseny web\n\nMotivació: millorar la web",
+      "data_creacio": "2026-06-18T09:00:09.297Z"
+    }
+  ]
+}

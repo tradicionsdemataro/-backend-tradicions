@@ -1,0 +1,98 @@
+{
+  "projectes": [
+    {
+      "id": 6,
+      "titol": "Punts de Llibre de Tradicions de Mataró",
+      "data_publicacio": "2025-04-16",
+      "data_inici": "2025-04-16",
+      "data_final": null,
+      "categoria": "material divulgatiu",
+      "lloc": "Mataró",
+      "resum": "Col·lecció de punts de llibre exclusius dedicats a la cultura i les tradicions de Mataró.",
+      "descripcio": "Projecte cultural que permet visualitzar i descarregar gratuïtament punts de llibre temàtics relacionats amb el patrimoni, les festes i les tradicions de la ciutat.",
+      "galeria_imatges": [
+        {
+          "url": "https://example.com/projectes/punts-llibre-1.jpg",
+          "alt": "Col·lecció de punts de llibre"
+        },
+        {
+          "url": "https://example.com/projectes/punts-llibre-2.jpg",
+          "alt": "Punt de llibre amb motius culturals"
+        },
+        {
+          "url": "https://example.com/projectes/punts-llibre-3.jpg",
+          "alt": "Codi QR per descarregar la col·lecció"
+        }
+      ],
+      "tags": [
+        "lectura",
+        "punts de llibre",
+        "cultura",
+        "Mataró",
+        "descàrregues"
+      ],
+      "estat": "actiu",
+      "destacat": false
+    },
+    {
+      "id": 7,
+      "titol": "Nadal i Reis – Edicions Anteriors",
+      "data_publicacio": "2026-01-06",
+      "data_inici": "2025-12-22",
+      "data_final": null,
+      "categoria": "memòria festiva",
+      "lloc": "Mataró",
+      "resum": "Recull històric de les celebracions de Nadal i Reis a Mataró amb imatges, enllaços i publicacions d'anys anteriors.",
+      "descripcio": "Nou apartat del blog dedicat a preservar la memòria festiva de Nadal i Reis. Inclou seccions específiques sobre activitats nadalenques, missatgers i carters reials, així com les cavalcades de Reis.",
+      "seccions": [
+        {
+          "titol": "Nadal i Reis – Edicions Anteriors",
+          "data": "2025-12-22"
+        },
+        {
+          "titol": "Missatgers i Carters Reials – Edicions Anteriors",
+          "data": "2026-01-04"
+        },
+        {
+          "titol": "Cavalcades de Reis – Edicions Anteriors",
+          "data": "2026-01-06"
+        }
+      ],
+      "galeria_imatges": [
+        {
+          "url": "https://example.com/projectes/nadal-reis-1.jpg",
+          "alt": "Estrella de Nadal dels Reis d'Orient"
+        },
+        {
+          "url": "https://example.com/projectes/nadal-reis-2.jpg",
+          "alt": "Cavalcada de Reis a Mataró"
+        },
+        {
+          "url": "https://example.com/projectes/nadal-reis-3.jpg",
+          "alt": "Missatgers Reials visitant els barris"
+        }
+      ],
+      "tags": [
+        "Nadal",
+        "Reis",
+        "cavalcada",
+        "memòria històrica",
+        "Mataró"
+      ],
+      "estat": "actiu",
+      "destacat": true
+    },
+    {
+      "titol": "aaaaaa",
+      "descripcio": "aaaaaaaaaaaa",
+      "estat": "actiu",
+      "imatge": "",
+      "categoria": "aaaaaaaaaaaaaaaaaaaaaaa",
+      "data_inici": "0023-03-12",
+      "data_fi": "0032-02-23",
+      "responsable": "aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "id": 8,
+      "createdAt": "2026-06-22T20:41:27.519Z"
+    }
+  ]
+}
