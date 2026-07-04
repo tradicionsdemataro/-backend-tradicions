@@ -38,13 +38,13 @@ const userSchema = new mongoose.Schema(
 
     avatar: {
     type: String,
-    default: "http://localhost:3000/images/default.jpg",
+    default: "https://tradicionsdemataro.github.io/tradicionsdemataro/images/default.jpg",
   },
 
     banner: {
       type: String,
       default:
-        "http://localhost:3000/images/default-banner.jpg",
+        "https://tradicionsdemataro.github.io/tradicionsdemataro/images/default-banner.jpg",
     },
 
     telefono: {
