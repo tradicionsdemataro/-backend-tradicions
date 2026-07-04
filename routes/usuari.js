@@ -37,7 +37,7 @@ router.post(
         return res.status(400).json({ message: "Field required (avatar/banner)" });
       }
 
-      const imageUrl = `https://tradicionsdemataro.github.io/tradicionsdemataro/uploads/${req.file.filename}`;
+      const imageUrl = `https://backend-tradicions.onrender.com/uploads/${req.file.filename}`;
 
       const user = await User.findByIdAndUpdate(
         req.userId,
