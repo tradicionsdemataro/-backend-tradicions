@@ -1,11 +1,12 @@
 import jwt from "jsonwebtoken";
 
+const HOME_URL = "https://tradicionsdemataro.github.io/tradicionsdemataro/";
 
 export const isAdmin = (req, res, next) => {
   const header = req.headers.authorization;
 
   if (!header?.startsWith("Bearer ")) {
-    return res.status(401).json({ message: "No autorizado" });
+    return res.redirect(HOME_URL);
   }
 
   try {
@@ -15,16 +16,12 @@ export const isAdmin = (req, res, next) => {
     );
 
     if (user.rol !== "admin") {
-      return res.status(403).json({
-        message: "Acceso denegado"
-      });
+      return res.redirect(HOME_URL);
     }
 
     req.user = user;
     next();
   } catch {
-    return res.status(401).json({
-      message: "Token inválido"
-    });
+    return res.redirect(HOME_URL);
   }
 };
