@@ -1,53 +1,147 @@
 {
   "publicacions": [
     {
-      "id": 7,
-      "titol": "Taller de Cultura Popular Infantil",
-      "data_publicacio": "2026-02-18",
-      "categoria": "formació",
-      "lloc": "Ateneu de Mataró",
-      "resum": "Activitat educativa per introduir els infants a les tradicions locals.",
-      "descripcio": "Taller pràctic on els nens poden descobrir gegants, música tradicional i balls populars.",
+      "id": 9,
+      "titol": "Festa Major del Barri",
+      "data_publicacio": "2026-07-10",
+      "categoria": "esdeveniment",
+      "lloc": "Plaça Major",
+      "resum": "Una jornada plena d'activitats per a totes les edats.",
+      "descripcio": "La Festa Major inclourà cercavila de gegants, actuacions musicals, espectacles infantils, tallers i un sopar popular per als veïns del barri.",
+      "contingut": "Durant tot el dia hi haurà activitats culturals, esportives i familiars. La celebració acabarà amb un concert i un espectacle de foc.",
+      "estat": "publicat",
+      "autor": "Ajuntament",
+      "imatge": "https://example.com/imatges/festa-major.jpg",
       "galeria_imatges": [
         {
-          "url": "https://example.com/imatges/taller1.jpg",
-          "alt": "Infants participant al taller"
+          "url": "https://example.com/imatges/festa1.jpg",
+          "alt": "Cercavila de gegants"
         },
         {
-          "url": "https://example.com/imatges/taller2.jpg",
-          "alt": "Activitat cultural infantil"
+          "url": "https://example.com/imatges/festa2.jpg",
+          "alt": "Concert de la Festa Major"
         }
       ],
       "tags": [
-        "infantil",
-        "educació",
-        "cultura"
+        "festa",
+        "cultura",
+        "família"
       ],
-      "organitzador": "Ateneu de Mataró",
+      "temps_lectura": "3 min",
+      "organitzador": "Ajuntament",
+      "destacat": true
+    },
+    {
+      "id": 10,
+      "titol": "Curs d'Iniciació a la Sardana",
+      "data_publicacio": "2026-08-05",
+      "categoria": "formació",
+      "lloc": "Centre Cívic",
+      "resum": "Aprèn els passos bàsics de la sardana en un ambient participatiu.",
+      "descripcio": "Curs adreçat a persones de totes les edats que vulguin descobrir aquesta dansa tradicional catalana.",
+      "contingut": "Les sessions combinaran teoria i pràctica amb monitors especialitzats. No cal experiència prèvia.",
+      "estat": "publicat",
+      "autor": "Centre Cívic",
+      "imatge": "https://example.com/imatges/sardana.jpg",
+      "galeria_imatges": [
+        {
+          "url": "https://example.com/imatges/sardana1.jpg",
+          "alt": "Participants ballant sardanes"
+        }
+      ],
+      "tags": [
+        "sardanes",
+        "tradició",
+        "curs"
+      ],
+      "temps_lectura": "2 min",
+      "organitzador": "Centre Cívic",
       "destacat": false
     },
     {
-      "titol": "aaaaaaaaaaaaaa",
-      "descripcio": "aaaaaaaaaaaaaaa",
-      "contingut": "",
-      "categoria": "aaaaaaaaaaa",
-      "estat": "esborrany",
-      "autor": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-      "imatge": "http://localhost:3000/admin",
-      "tags": [
-        "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
-      ],
-      "temps_lectura": "",
-      "data_publicacio": "1212-02-21",
+      "id": 11,
+      "titol": "Exposició d'Artistes Locals",
+      "data_publicacio": "2026-09-01",
+      "categoria": "exposició",
+      "lloc": "Sala Municipal",
+      "resum": "Mostra d'obres creades per artistes del municipi.",
+      "descripcio": "Una exposició que reuneix pintura, fotografia i escultura amb l'objectiu de donar visibilitat al talent local.",
+      "contingut": "L'exposició estarà oberta durant tot el mes amb entrada gratuïta. També s'organitzaran visites guiades els caps de setmana.",
+      "estat": "publicat",
+      "autor": "Regidoria de Cultura",
+      "imatge": "https://example.com/imatges/exposicio.jpg",
       "galeria_imatges": [
         {
-          "url": "http://localhost:5000/uploads/1781868533556-94384425.png",
-          "alt": "1781868533556-94384425"
+          "url": "https://example.com/imatges/expo1.jpg",
+          "alt": "Obres exposades"
+        },
+        {
+          "url": "https://example.com/imatges/expo2.jpg",
+          "alt": "Visitants a l'exposició"
         }
       ],
-      "resum": "aaaaaaaaaaaaaaaaaaaaaaa",
-      "id": 8,
-      "createdAt": "2026-06-21T20:15:20.280Z"
+      "tags": [
+        "art",
+        "exposició",
+        "cultura"
+      ],
+      "temps_lectura": "4 min",
+      "organitzador": "Regidoria de Cultura",
+      "destacat": false
+    },
+    {
+      "id": 12,
+      "titol": "Concert de Música Tradicional",
+      "data_publicacio": "2026-10-15",
+      "categoria": "concert",
+      "lloc": "Teatre Municipal",
+      "resum": "Una vetllada dedicada a la música popular catalana.",
+      "descripcio": "Diverses formacions interpretaran peces tradicionals amb instruments típics del país.",
+      "contingut": "El concert comptarà amb la participació de grups convidats i finalitzarà amb una actuació conjunta oberta al públic.",
+      "estat": "publicat",
+      "autor": "Associació Cultural",
+      "imatge": "https://example.com/imatges/concert.jpg",
+      "galeria_imatges": [
+        {
+          "url": "https://example.com/imatges/concert1.jpg",
+          "alt": "Grup interpretant música tradicional"
+        }
+      ],
+      "tags": [
+        "música",
+        "tradició",
+        "concert"
+      ],
+      "temps_lectura": "3 min",
+      "organitzador": "Associació Cultural",
+      "destacat": true
+    },
+    {
+      "id": 13,
+      "titol": "Jornada de Portes Obertes",
+      "data_publicacio": "2026-11-20",
+      "categoria": "comunitat",
+      "lloc": "Casal de Cultura",
+      "resum": "Descobreix les activitats i els projectes de l'entitat.",
+      "descripcio": "Els visitants podran conèixer els espais, participar en tallers i parlar amb els responsables dels diferents projectes.",
+      "contingut": "Durant la jornada hi haurà demostracions, activitats familiars i informació sobre les activitats previstes per al proper any.",
+      "estat": "publicat",
+      "autor": "Casal de Cultura",
+      "imatge": "https://example.com/imatges/portes-obertes.jpg",
+      "galeria_imatges": [
+        {
+          "url": "https://example.com/imatges/portes1.jpg",
+          "alt": "Visitants durant la jornada"
+        }
+      ],
+      "tags": [
+        "comunitat",
+        "participació",
+        "portes obertes"
+      ],
+      "temps_lectura": "2 min",
+      "organitzador": "Casal de Cultura",
+      "destacat": false
     }
   ]
 }
